@@ -1,0 +1,22 @@
+{
+  "name": "rdmbase",
+  "authors": [
+    "ranchodeluxemedia <chris@ranchodeluxemedia.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "wow": "wowjs#^1.1.2",
+    "animate.css": "^3.5.2"
+  }
+}

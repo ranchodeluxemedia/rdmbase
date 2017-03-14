@@ -1,0 +1,13 @@
+{
+    "name": "ranchodeluxemedia/rdmbase",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ranchodeluxemedia",
+            "email": "chris@ranchodeluxemedia.com"
+        }
+    ],
+    "require": {
+      "composer/installers": "*"
+    }
+}
